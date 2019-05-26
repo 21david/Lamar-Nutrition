@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/David/Code/Labs/Lamar Nutrition/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Code/Labs/Lamar Nutrition/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Code/Labs/Lamar Nutrition/controlsfx-8.40.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Code/Labs/Lamar Nutrition/hsqldb-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Code/Labs/Lamar Nutrition/jackcess-2.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Code/Labs/Lamar Nutrition/ucanaccess-4.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
